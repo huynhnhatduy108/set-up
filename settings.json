@@ -374,7 +374,75 @@
         },
 
         
-
+         // FLUTTER
+         {
+          "scope": [],
+          "settings": {
+            "foreground": "#00CED1"
+          }
+        },
+        {
+          "scope": ["support.class.dart"],
+          "settings": {
+            "foreground": "#00ad9f"
+          }
+        },
+        {
+          "scope": ["storage.modifier.dart"],
+          "settings": {
+            "foreground": "#336699"
+          }
+        },
+        {
+          "scope": ["string.interpolated.single.dart","string.interpolated.double.dart"],
+          "settings": {
+            "foreground": "#87CEFA"
+          }
+        },
+        {
+          "scope": [ ],
+          "settings": {
+            "foreground": "#8cb3d9"
+          }
+        },
+        {
+          "scope": ["source.dart"],
+          "settings": {
+            "foreground": "#2997b3"
+          }
+        },
+        {
+          "scope":[ ],
+          "settings": {
+            "foreground": "#00ad9f"
+          }
+        },
+        {
+          "scope": [],
+          "settings": {
+            "foreground": "#ff9900"
+          }
+        },
+        {
+          "scope": ["storage.type.primitive.dart","keyword.declaration.dart"
+          ],
+          "settings": {
+            "foreground": "#e42f0f"
+          }
+        },
+        {
+          "scope": [],
+          "settings": {
+            "foreground": "#00ad9f"
+          }
+        },
+        {
+          "scope": [
+                  ],
+          "settings": {
+            "foreground": "#29b4df"
+          }
+        },
 
       ]
     }
@@ -385,7 +453,7 @@
 },
 "workbench.colorTheme": "Atlantic Night - Abyss",
 "workbench.iconTheme": "material-icon-theme",
-"diffEditor.ignoreTrimWhitespace": true,
+"diffEditor.ignoreTrimWhitespace": false,
 "editor.indentSize": "tabSize",
 "search.seedOnFocus": true,
 "window.customTitleBarVisibility": "windowed",
@@ -420,6 +488,14 @@
 
 ],
 "go.toolsManagement.autoUpdate": true,
-"git.ignoreRebaseWarning": true
+"git.ignoreRebaseWarning": true,
+"background.useInvertedOpacity": true,
+"editor.codeActionsOnSave": {
+
+},
+"editor.dropIntoEditor.preferences": [
+  
+]
 }
 
+// https://dev.to/khairunnaharnowrin/how-to-setup-zsh-on-mac-terminal-37dj
